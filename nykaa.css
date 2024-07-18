@@ -1,0 +1,108 @@
+.head{ 
+		background-color:pink;
+		height:40px;
+		width:90%;
+		font-size:20px;
+		color:white;
+		padding-left:180px;	
+}
+.side{  
+		background-color:transperant;
+		width:98%;
+		height:50px;
+}
+
+search{
+		background-color:white;
+		color:black;
+		padding-left:5%;
+		float:left;		
+}
+
+
+.bgcolor{
+		background-color:#E1E2E4;
+		height:100%;
+		width:100%;
+}		
+.space{
+		margin-top:1%;
+}
+
+.make{
+		padding-left:3%;
+		float:left;
+}
+
+.color{
+			color:#868585;
+}
+
+.op{
+		padding-left:1.5%;
+}
+
+.im{
+		float:left;
+		padding-left:2%;
+		height:150px;
+}
+
+.nx{
+			float:left;
+			height:300px;
+}
+
+.hz{
+		float:left;
+		padding-left:3%;
+}
+
+.fl{
+		float:left;
+		padding-left:1%;
+		height:300px;	
+	
+}	
+
+.so{
+		padding-left:1%;
+		float:left;
+		height:100px;
+}
+
+.pr{
+		padding-left:1%;
+}
+
+.pq{
+		font-size:15px;
+		float:left;
+		padding-left:1%;
+}
+
+.aa{
+		padding-left:3%;
+		float:left;
+}		
+		
+.ex{
+		color:white;
+		float:left;
+		padding-left:10%;
+}
+
+.ad{
+		color:white;
+		padding-left:7%;
+		margin-top:1%;
+		font-size:15px;
+}
+
+.loc{
+		color:white;
+		padding-left:7%;
+		margin-top:1%;
+		font-size:15px;
+		float:left;
+}
